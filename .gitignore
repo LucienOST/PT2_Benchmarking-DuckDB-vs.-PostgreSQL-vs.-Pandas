@@ -1,4 +1,5 @@
 .venv
 .env
 junk.py
-datasets/GWR
+datasets/GWR/*.csv
+datasets/GWR/GWR_Total/*
