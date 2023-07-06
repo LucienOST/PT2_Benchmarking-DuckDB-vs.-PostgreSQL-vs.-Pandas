@@ -1,0 +1,4 @@
+.venv
+.env
+junk.py
+datasets/GWR
