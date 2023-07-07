@@ -9,6 +9,10 @@ notebook = "*"
 duckdb = "*"
 psycopg2 = "*"
 pyspark = "*"
+matplotlib = "*"
+pyarrow = "*"
+python-dotenv = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
